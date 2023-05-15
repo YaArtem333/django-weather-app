@@ -24,7 +24,7 @@ Create a postgres server database
 
 **Copy repository**
 ```shell
-git clone
+git clone https://github.com/YaArtem333/Django-weather-app.git
 ```
 
 **Change database parameters**
@@ -63,7 +63,7 @@ The service is available on 127.0.0.1:8000
 
 **Copy repository**
 ```shell
-git clone
+git clone https://github.com/YaArtem333/Django-weather-app.git
 ```
 
 **Install libraries**
